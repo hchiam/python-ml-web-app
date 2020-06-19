@@ -4,6 +4,8 @@ Just one of the things I'm learning. <https://github.com/hchiam/learning>
 
 Following [a tutorial](https://towardsdatascience.com/how-to-build-a-simple-machine-learning-web-app-in-python-68a45a0e0291) by [Chanin Nantasenamat](https://github.com/dataprofessor).
 
+The key part: [streamlit](https://github.com/streamlit/streamlit)
+
 ## Setup
 
 ```bash
