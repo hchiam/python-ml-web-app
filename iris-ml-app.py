@@ -1,3 +1,12 @@
+"""
+Setup: (use pip or pip3)
+  pip3 install streamlit
+  pip3 install pandas
+  pip3 install -U scikit-learn
+Run:
+  streamlit run iris-ml-app.py
+"""
+
 import streamlit as st
 import pandas as pd
 from sklearn import datasets
